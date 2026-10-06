@@ -13,9 +13,9 @@ int main ()
     int c = 50;
     int d = 30;
 
-    int mainas = (c -d);
+    // int mainas = (c -d);
 
-    printf("The Reasult Is -:%d\n\n",mainas);
+    // printf("The Reasult Is -:%d\n\n",mainas);
 
     int e = 5 ;
 
@@ -33,7 +33,22 @@ int main ()
 
     int bag = (g / h);
 
-    printf("your bag reasult is :-%d",bag);
+    printf("your bag reasult is :-%d \n\n ",bag);
+
+
+    int j = 24;
+
+    int k = 5;
+
+
+    int rem = (j % k);
+
+
+    printf(" rem reasult %d",rem);
+
+    // modulas 
+
+
     
    return 0; 
 
